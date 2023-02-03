@@ -7,5 +7,5 @@ In this analysis of absenteeism data collected over three years by a courier com
 
 My analysis follows the OSEMN Framework utilising summary statistics, Pearson’s correlation matrix, two-way cross tables, and Tableau visualisation to explore the dataset; and feature scaling for protection against outliers, dimensionality reduction through principal component analysis for efficiency and to reduce the risk of over-fitting, and KMeans clustering to model. 
 
-My analysis uses Python code in PySpark. The data and code files are available in the docs folder and the full report is available here 
+My analysis uses Python code in PySpark. The data and code files are available above and the full report with Appendices including instructions on the installation of PySpark on a Wndows 10 machine is available here 
 [7082CEM_SarahWindrum_10863343_Assignment_Final.pdf](https://github.com/SarahWindrum/AbsenceData/files/10578459/7082CEM_SarahWindrum_10863343_Assignment_Final.pdf)
